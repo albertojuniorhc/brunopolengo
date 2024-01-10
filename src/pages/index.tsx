@@ -14,7 +14,7 @@ export default function Home() {
       </Head>
       <main className="flex min-h-screen flex-col items-center justify-center bg-black font-mono text-white">
         <div className="container flex flex-col items-center justify-center gap-12 px-4 py-16 ">
-          <h1 className="text-5xl font-extrabold text-white sm:text-[5rem]">
+          <h1 className="animate-pulse text-5xl font-extrabold text-white sm:text-[5rem]">
             Coming soon...
           </h1>
           <a href="mailto:contato@brunopolengo.com.br">
